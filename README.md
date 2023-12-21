@@ -26,12 +26,12 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 |- Werkt het principe van een kaarsje te simuleren met een LED?         |
 |- Is alles gemaakt op voor een veilige gebruik?                        |
 
-|Actions                                                                |
-|-----------------------------------------------------------------------|
-|- Het tekenen van de prototype + elektronische schema ontwerpen        |
-|- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen   |
-|- Alle elektronica testen + checken of alles werkt                     |
-|- Assembleren van het behuizing + al de elektronica kableren           |
-|- Programma schrijven voor de LED-lampjes                              |
-|- Testen van het programma die kaarsjes simuleert met LED-lampjes      |                                                                                                                                                                                                   
 
+|Actions                                                                  |
+|-------------------------------------------------------------------------|
+|- Het tekenen van de prototype + elektronische schema ontwerpen          |
+|- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen     |
+|- Alle elektronica testen + checken of alles werkt                       |
+|- Assembleren van het behuizing + al de elektronica kableren             |
+|- Programma schrijven voor de LED-lampjes                                |
+|- Testen van het programma die kaarsjes simuleert met LED-lampjes        |
