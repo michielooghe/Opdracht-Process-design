@@ -14,9 +14,9 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 ## Deelopdracht 2
 **Maak een Project canvas aan voor het project die je zal doorlopen om jouw oplossing te realiseren**
 
-| Purpose | Scope | Succes Criteria |
-| ----------- | ----------- |----------- |
-| Zorgen dat kleine kinderen op een veilige manier voorwerpen kan ontdekken zonder zichzelf in gevaar te brengen.  | Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes,
-weerstanden, draden.  |Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.
-Hun nieuwsgierigheid even hoog laten als nu
-maar door een veiligere manier dingen gaan ontdekken.|
+| Purpose                                                     | Scope                                                           | Succes Criteria                                               |
+|-------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| Zorgen dat kleine kinderen op een veilige manier voorwerpen  | Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte        | Dat het aantal ongevallen bij kleine kinderen lager wordt dan  |
+| kan ontdekken zonder zichzelf in gevaar te brengen.          | kaarsjes, weerstanden, draden.                                   | oorspronkelijk. Hun nieuwsgierigheid even hoog laten als nu     |
+|                                                             |                                                                 | maar door een veiligere manier dingen gaan ontdekken.           |
+
