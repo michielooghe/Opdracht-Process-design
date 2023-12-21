@@ -2,7 +2,7 @@
 Ramsey Carpentier, Michiel Ooghe, Thibo Terryn en  Florian Titiljon
 
 ## Deelopdracht 1
-**Ga op zoek naar een probleem in jouw dagelijks leven die je met behulp van jouw opgedane kennis uit de opleiding elektronica-ict kan oplossen. Beschrijf het probleem grondig zodat iedereen dit kan begrijpen.**
+__Ga op zoek naar een probleem in jouw dagelijks leven die je met behulp van jouw opgedane kennis uit de opleiding elektronica-ict kan oplossen. Beschrijf het probleem grondig zodat iedereen dit kan begrijpen.__
 
 Ik heb een klein broertje van 2 jaar. Zoals men weet, houdt ieder klein kindje van dingen ontdekken. 
 Tijdens de kerstperiode zorgen we thuis voor een warme sfeer door kleine kaarsjes te branden. 
