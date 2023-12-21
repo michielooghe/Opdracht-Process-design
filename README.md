@@ -25,8 +25,8 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 |- Werkt al het elektronica?                                            |
 |- Werkt het principe van een kaarsje te simuleren met een LED?         |
 |- Is alles gemaakt op voor een veilige gebruik?                        |
-| Actions                                                                                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Actions**                                                                                                                                                                                                                                                                 |
+
 |- Het tekenen van de prototype + elektronische schema ontwerpen        |
 |- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen   |
 |- Alle elektronica testen + checken of alles werkt                     |
