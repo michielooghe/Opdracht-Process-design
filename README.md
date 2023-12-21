@@ -16,13 +16,14 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 
 | Purpose                                                                                                        | Scope                                                                                   | Succes Criteria                                               |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Zorgen dat kleine kinderen op een veilige manier voorwerpen kan ontdekken zonder zichzelf in gevaar te brengen.| Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes, weerstanden, draden.| Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.Hun nieuwsgierigheid even hoog laten als numaar door een veiligere manier dingen gaan ontdekken.|         
+| Zorgen dat kleine kinderen op een veilige manier voorwerpen kan ontdekken zonder zichzelf in gevaar te brengen.| Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes, weerstanden, draden.| Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.Hun nieuwsgierigheid even hoog laten als numaar door een veiligere manier dingen gaan ontdekken.|
+
 | MileStones                                                                                                                                                                                                                                                               |
-|
-- Het tekenen van de prototype + elektronische schema ontwerpen
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|- Het tekenen van de prototype + elektronische schema ontwerpen
 - De behuizing snijden met een lasercutter en de kaarsjes 3D-printen
 - Alle elektronica testen + checken of alles werkt
 - Assembleren van het behuizing + al de elektronica kableren
 - Programma schrijven voor de LED-lampjes
-- Testen van het programma die kaarsjes simuleert met LED-lampjes
-|
+- Testen van het programma die kaarsjes simuleert met LED-lampjes                                                                                                                                                                                                          |
+
