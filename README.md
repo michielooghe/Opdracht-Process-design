@@ -18,7 +18,14 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Zorgen dat kleine kinderen op een veilige manier voorwerpen kan ontdekken zonder zichzelf in gevaar te brengen.| Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes, weerstanden, draden.| Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.Hun nieuwsgierigheid even hoog laten als numaar door een veiligere manier dingen gaan ontdekken.|
 
-| MileStones                                                                                                                                                                                                                                                               |
+| Milestones                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|- Zijn de schema's + prototypes getekend?                              |
+|- Is alles uitgevoerd en klaar voor het assembleren?                   |
+|- Werkt al het elektronica?                                            |
+|- Werkt het principe van een kaarsje te simuleren met een LED?         |
+|- Is alles gemaakt op voor een veilige gebruik?                        |
+| Actions                                                                                                                                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |- Het tekenen van de prototype + elektronische schema ontwerpen        |
 |- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen   |
