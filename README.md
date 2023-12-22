@@ -14,40 +14,99 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 ## Deelopdracht 2
 **Maak een Project canvas aan voor het project die je zal doorlopen om jouw oplossing te realiseren**
 
-| Purpose                                                                                                        | Scope                                                                                   | Succes Criteria                                               |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Zorgen dat kleine kinderen op een veilige manier voorwerpen kan ontdekken zonder zichzelf in gevaar te brengen.| Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes, weerstanden, draden.| Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.Hun nieuwsgierigheid even hoog laten als numaar door een veiligere manier dingen gaan ontdekken.|
+### Purpose
+Zorgen dat kleine kinderen op een veilige manier voorwerpen kunt
+ontdekken zonder zichzelf in gevaar te brengen.
 
-| Milestones                                                            |
-|-----------------------------------------------------------------------|
-|- Zijn de schema's + prototypes getekend?                              |
-|- Is alles uitgevoerd en klaar voor het assembleren?                   |
-|- Werkt al het elektronica?                                            |
-|- Werkt het principe van een kaarsje te simuleren met een LED?         |
-|- Is alles gemaakt op voor een veilige gebruik?                        |
+### Scope
+Een behuizing, voeding, Arduino, LED-lampjes, 3D geprinte kaarsjes,
+weerstanden, draden.
 
+### Succes Criteria
+Dat het aantal ongevallen bij kleine kinderen lager wordt dan oorspronkelijk.
+Hun nieuwsgierigheid even hoog laten als nu
+maar door een veiligere manier dingen gaan ontdekken. 
 
-|Actions                                                                  |
-|-------------------------------------------------------------------------|
-|- Het tekenen van de prototype + elektronische schema ontwerpen          |
-|- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen     |
-|- Alle elektronica testen + checken of alles werkt                       |
-|- Assembleren van het behuizing + al de elektronica kableren             |
-|- Programma schrijven voor de LED-lampjes                                |
-|- Testen van het programma die kaarsjes simuleert met LED-lampjes        |
+### Milestones
+- Zijn de schema's + prototypes getekend?
+- Is alles uitgevoerd en klaar voor het assembleren?
+- Werkt al het elektronica?
+- Werkt het principe van een kaarsje te simuleren met een LED?
+- Is alles gemaakt op voor een veilige gebruik?
 
+### Actions
+- Het tekenen van de prototype + elektronische schema ontwerpen
+- De behuizing snijden met een lasercutter en de kaarsjes 3D-printen
+- Alle elektronica testen + checken of alles werkt
+- Assembleren van het behuizing + al de elektronica kableren
+- Programma schrijven voor de LED-lampjes
+- Testen van het programma die kaarsjes simuleert met LED-lampjes
+  
+### Outcome
+
+### Team
+- Naam: Ramsey Carpentier
+- Leeftijd: 18 jaar
+- Plaats: Zonnebeke
+- Nummer: 0485 54 48 67
+  
+- Naam: Michiel Ooghe
+- Leeftijd: 19 jaar
+- Plaats: Ieper
+- Nummer: 0499 24 03 93
+  
+- Naam: Thibo Terryn
+- Leeftijd: 18 jaar
+- Plaats: De Klijte
+- Nummer: 0471 57 10 83
+
+- Naam: Florian Titiljon
+- Leeftijd: 18 jaar
+- Plaats: Ploegsteert
+- Nummer: 0472 39 54 89
+
+### Stakeholders
+- Vives: het gebruik van de lasercutter en de 3D-printer
+- De makers van het project: het maken en presenteren van het prototype
+- De docenten: het begeleiden van het project
+- De andere studenten die er ook aan zullen werken
+
+### Users
+Families, kinderen, gezinnen, ...
+Alle mensen die dit product gebruiken
+
+### Resources
+- Tijd
+- Geld
+- Hout
+- Kunstof
+### Constraints
+- Tijd
+- Geld
+- Formaat van het prototype
+- Aantal prototypes
+### Risks
+Materiaal komt niet toe: Meerdere keren vragen voor een bevestiging van je bestelling
+het fout lopen in de hardware/software bv kortsluiting: dit kunnen we vermijden
+door schema's laten controleren door de rest van de team.
+Alle documentatie die zou verdwijnen.
+Het programma die niet werkt.
+Dat het niet veilig genoeg is voor kinderen
 
 ## Deelopdracht 3
 **Maak een SWOT analyse voor jouw oplossing, geef minstens 2 punten bij elk onderdeel (2 sterktes, 2 zwaktes, 2 opportuniteiten en 2 bedreigingen). Leg duidelijk uit waarom je iets bij een bepaald punt plaatst (bv: Traag opladen is een zwakte aan ons product gezien elke andere smartphone op de huidige markt een fastcharging systeem gebruikt). Als er geen duidelijke uitleg staat kan je geen punten verkrijgen voor dit onderdeel.**
 
-|      |Positief||Negatief|
-|Intern|Sterktes|
-|      |- Doordat er een microcontroller in zit|
-|      | Zijn variaties snel aan te passen|
-|Extern|Kansen|
-|      |-Iedereen wil een veilige omgeving voor kinderen|
-|      |-Uitbreidingensmogelijkheden:|
-
+|      |Positief                                              |Negatief                                  |
+|------|------------------------------------------------------|------------------------------------------|
+|Intern|Sterktes                                              |Zwaktes                                   |
+|      |- Doordat er een microcontroller in zit               |Nadelen tegenover concurrent:             |
+|      | Zijn variaties snel aan te passen                    |geen groot bedrijf,minder naam bekendheid.|
+|      |                                                      |geen massa productie mogelijk.            |
+|Extern|Kansen                                                |Bedreigingen                              |
+|      |-Iedereen wil een veilige omgeving voor kinderen      |-Voedingskabel nodig waardoor de          |
+|      |-Uitbreidingensmogelijkheden: meer modellen           |plaatsing soms beperkt is.                |
+|      |mensen hebben verschillende keuzes, voor elk wat wils.|-Er bestaan al elektronische led's op de  |
+|      |                                                      |markt in alle vormen en maten.            |
 ## Deelopdracht 4
 **Bouw een prototype voor jouw oplossing, bespreek uitvoerig waarom dat type prototype past bij jouw oplossing.**
 
