@@ -13,6 +13,7 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 
 ## Deelopdracht 2
 **Maak een Project canvas aan voor het project die je zal doorlopen om jouw oplossing te realiseren**
+[Link naar Canvas](https://github.com/ThiboTer/Opdracht-Process-design/raw/main/Project-canvas-elektronische-kaarsjes%20.pdf)
 
 ### Purpose
 Zorgen dat kleine kinderen op een veilige manier voorwerpen kunt
