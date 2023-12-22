@@ -46,3 +46,18 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 |Extern|Kansen|
 |      |-Iedereen wil een veilige omgeving voor kinderen|
 |      |-Uitbreidingensmogelijkheden:|
+
+## Deelopdracht 4
+**Bouw een prototype voor jouw oplossing, bespreek uitvoerig waarom dat type prototype past bij jouw oplossing.**
+
+## Deelopdracht 5
+**Ontwikkel een test voor het systeem en beschrijf de test grondig. Dit wil zeggen dat je duidelijk maakt wat je gaat testen, waarom je dat gaat testen, op welke manier die testen dienen te gebeuren, waarom je die testen op die manier zal uitvoeren, wat de condities zijn voor het slagen en niet slagen op de test, wie de test dient af te nemen, welke uitzonderingen kunnen er optreden etc.**
+
+## Deelopdracht 6
+**Maak een presentatie waar jullie het concept en prototype zullen voorstellen aan de docent. Het is de bedoeling om jullie keuzes te verantwoorden die jullie gemaakt hebben bij het concept en het prototype. Maak een opname waarin jullie deze presentatie geven. Deze opname laadt je mee op in Toledo. De Powerpoint of andere gebruikte materialen dien je in Github te plaatsen, de opname niet.**
+
+## Deelopdracht 7
+**Maak een Github repository voor het project met een README.md die alle voorgaande elementen bevat.**
+
+
+
