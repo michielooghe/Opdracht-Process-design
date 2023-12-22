@@ -116,7 +116,9 @@ De behuizing zou bestaan uit alleen MDF van 3 mm dik die onder een lasercutter g
 Het tweede deel van het prototype zijn de kaarsjes zelf. Ze zouden bestaan uit kunststof die door een 3D-printer gemaakt zou worden. 
 
 Ten slotte zou er wat elektronica geïmplementeerd worden, namelijk een Arduino en 3 LED-lampjes. Alles zou gevoed worden door een simpele voeding zoals die van een computer. De 3 LED-lampjes zouden zodanig geprogrammeerd worden via de Arduino dat ze het effect van een kaars kunnen simuleren. Alle bekabeling zou in het behuizing staan voor een mooie afwerkingen van het prototype.
+![Prototype Afbeelding](https://github.com/ThiboTer/Opdracht-Process-design/raw/main/prototype.png)
 
+Ons prototype is de oplossing voor ons probleem. Het kindje van 2 jaar oud kan zonder gevaar zijn nieuwsgierigheid zetten op de kaarsjes. Hij kan niet verbrand worden door de LED-lampen of zelfs geëlektrocuteerd worden omdat het op zeer kleine spanningen werkt die wij als mens zelf niet voelen. Het heeft ons als gezin, altijd een warme sfeer tijdens de kerstperiode. Er kan geen ongeval gebeuren door ermee te spelen het is zeer veilig voor kinderen van 2 jaar oud. 
 
 
 ## Deelopdracht 5
