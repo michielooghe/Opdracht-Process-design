@@ -36,6 +36,7 @@ Daarvoor maken we een oplossing om toch die warme sfeer te behouden en ervoor te
 |- Programma schrijven voor de LED-lampjes                                |
 |- Testen van het programma die kaarsjes simuleert met LED-lampjes        |
 
+
 ## Deelopdracht 3
 **Maak een SWOT analyse voor jouw oplossing, geef minstens 2 punten bij elk onderdeel (2 sterktes, 2 zwaktes, 2 opportuniteiten en 2 bedreigingen). Leg duidelijk uit waarom je iets bij een bepaald punt plaatst (bv: Traag opladen is een zwakte aan ons product gezien elke andere smartphone op de huidige markt een fastcharging systeem gebruikt). Als er geen duidelijke uitleg staat kan je geen punten verkrijgen voor dit onderdeel.**
 
