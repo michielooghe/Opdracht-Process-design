@@ -109,6 +109,15 @@ Dat het niet veilig genoeg is voor kinderen
 |      |                                                      |markt in alle vormen en maten.            |
 ## Deelopdracht 4
 **Bouw een prototype voor jouw oplossing, bespreek uitvoerig waarom dat type prototype past bij jouw oplossing.**
+het prototype gaat over een kaarsenhouder. De bedoeling van ons prototype is om een kaarsenhouder te maken met zelf gemaakte elektronische kaarsjes. 
+
+De behuizing zou bestaan uit alleen MDF van 3 mm dik die onder een lasercutter gesneden zou worden. 
+
+Het tweede deel van het prototype zijn de kaarsjes zelf. Ze zouden bestaan uit kunststof die door een 3D-printer gemaakt zou worden. 
+
+Ten slotte zou er wat elektronica geïmplementeerd worden, namelijk een Arduino en 3 LED-lampjes. Alles zou gevoed worden door een simpele voeding zoals die van een computer. De 3 LED-lampjes zouden zodanig geprogrammeerd worden via de Arduino dat ze het effect van een kaars kunnen simuleren. Alle bekabeling zou in het behuizing staan voor een mooie afwerkingen van het prototype.
+
+
 
 ## Deelopdracht 5
 **Ontwikkel een test voor het systeem en beschrijf de test grondig. Dit wil zeggen dat je duidelijk maakt wat je gaat testen, waarom je dat gaat testen, op welke manier die testen dienen te gebeuren, waarom je die testen op die manier zal uitvoeren, wat de condities zijn voor het slagen en niet slagen op de test, wie de test dient af te nemen, welke uitzonderingen kunnen er optreden etc.**
